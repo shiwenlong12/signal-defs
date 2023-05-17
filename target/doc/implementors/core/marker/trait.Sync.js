@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"signal_defs":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Sync.html\" title=\"trait core::marker::Sync\">Sync</a> for <a class=\"struct\" href=\"signal_defs/struct.SignalAction.html\" title=\"struct signal_defs::SignalAction\">SignalAction</a>",1,["signal_defs::SignalAction"]],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Sync.html\" title=\"trait core::marker::Sync\">Sync</a> for <a class=\"enum\" href=\"signal_defs/enum.SignalNo.html\" title=\"enum signal_defs::SignalNo\">SignalNo</a>",1,["signal_defs::SignalNo"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
